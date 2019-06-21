@@ -3,7 +3,7 @@ Simple script for Blender 2.80 to automate mesh slicing
 
 ## Usage
 Load SliceMesh.py in to the Blender text editor
-Change travel values and axes
+Change travel / rotation values and axes
 Run the script
 
 ### Disclaimer
